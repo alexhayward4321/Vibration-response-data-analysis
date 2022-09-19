@@ -1,4 +1,4 @@
-This is just a repository with an example of data analysis from one of my recent labs.
+This is just a repository with an example of data analysis from one of my mechanical engineering labs.
 
 Data analysis is only taught in the imperial college MechEng course in excel, so the data analysis I was able to perform here primarily 
 came off the back of my own effort to learn pandas and through getting familiar with python from taking online courses, nor did my
